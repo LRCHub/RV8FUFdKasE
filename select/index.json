@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "on the way to YOU",
+  "base_artist": "globe featuring KEIKO",
+  "createdAt": "2026-03-22T16:03:30.213079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "on the way to YOU",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/01_on_the_way_to_YOU_globe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "on_the_way_to_YOU",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/02_on_the_way_to_YOU_globe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On the Way to You",
+      "artist": "YELLA D",
+      "has_synced": false,
+      "path": "select/03_On_the_Way_to_You_YELLA_D.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On the Way to You",
+      "artist": "anna RF",
+      "has_synced": false,
+      "path": "select/04_On_the_Way_to_You_anna_RF.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "on the way to YOU(Remode)",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/05_on_the_way_to_YOU(Remode)_globe.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "On the Way to Narmada",
+      "artist": "Deine Lakaien",
+      "has_synced": true,
+      "path": "select/06_On_the_Way_to_Narmada_Deine_Lakaien.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "On the way to see you",
+      "artist": "Layone",
+      "has_synced": false,
+      "path": "select/07_On_the_way_to_see_you_Layone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "On The Way To Club",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/08_On_The_Way_To_Club_Blur.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "On the Way to the Club",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/09_On_the_Way_to_the_Club_Blur.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "On The Way To Hell",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/10_On_The_Way_To_Hell_Anvil.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "On the Way (To Oklahoma)",
+      "artist": "The Residents",
+      "has_synced": true,
+      "path": "select/11_On_the_Way_(To_Oklahoma)_The_Residents.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "On the Way to the Bottom",
+      "artist": "Dr. Hook",
+      "has_synced": true,
+      "path": "select/12_On_the_Way_to_the_Bottom_Dr._Hook.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Stop on the Way to Vegas",
+      "artist": "Boilermaker",
+      "has_synced": false,
+      "path": "select/13_Last_Stop_on_the_Way_to_Vegas_Boilermaker.txt"
+    }
+  ]
+}
